@@ -1,0 +1,9 @@
+{
+  "name": "get selection info",
+  "id": "1127879669127844474",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ]
+}
